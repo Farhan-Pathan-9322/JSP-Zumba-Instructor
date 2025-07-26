@@ -15,6 +15,5 @@
     </form>
     <hr>
     <h2>Existing Batches</h2>
-    <%-- Display batches dynamically here using Java code or JSTL --%>
 </body>
 </html>
