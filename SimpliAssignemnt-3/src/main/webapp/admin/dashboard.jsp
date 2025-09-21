@@ -9,4 +9,6 @@
     <a href="batch.jsp">Manage Batches</a><br>
     <a href="participant.jsp">Manage Participants</a>
 </body>
+
 </html>
+
